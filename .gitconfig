@@ -31,3 +31,5 @@
 # vim:sts=4:sw=4:et:
 [merge]
 	conflictstyle = diff3
+[help]
+	autocorrect = 1
